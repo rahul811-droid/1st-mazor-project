@@ -1,0 +1,26 @@
+.container {
+    width: 400px;
+    margin: 0 auto;
+    text-align: center;
+    
+  }
+  
+  form {
+    border: 1px solid black;
+    padding: 20px;
+    margin-top: 50px;
+  }
+  
+  h1 {
+    margin-bottom: 30px;
+  }
+  
+  label, input[type="submit"] {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  input[type="text"], input[type="password"] {
+    padding: 5px;
+    width: 100%;
+  }

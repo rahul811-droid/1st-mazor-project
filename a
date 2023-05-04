@@ -1,0 +1,23 @@
+[33mcommit 4134ed118d99932a749956d93b077920185d4752[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;32mmanual-local-auth[m[33m, [m[1;32mcheckout[m[33m)[m
+Author: Rahul <rahul25062@gmail.com>
+Date:   Fri Feb 10 22:54:50 2023 +0530
+
+    setup static file access for layouts & pages
+
+[33mcommit 2dd1afaa3b4b2ba1c1a46b4a45492efd5dd15702[m
+Author: Rahul <rahul25062@gmail.com>
+Date:   Thu Feb 9 00:15:39 2023 +0530
+
+    add a controller and a router for home
+
+[33mcommit 5a3f342dbd36aa63b5cbc8172e57d4019a00d83a[m
+Author: Rahul <rahul25062@gmail.com>
+Date:   Wed Jan 25 22:31:23 2023 +0530
+
+    setup static files access for layouts and pages
+
+[33mcommit 85be3383333fda16fddd8ba7a85d05d1658515ad[m
+Author: Rahul <rahul25062@gmail.com>
+Date:   Sun Jan 22 15:36:41 2023 +0530
+
+    commit :1
